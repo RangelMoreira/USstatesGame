@@ -34,12 +34,12 @@ Prerequisites: Python 3.10.4
 # clone repository
 git clone https://github.com/RangelMoreira/pomodoro.git
 
-#Create virtual environment
+# Create virtual environment
 python -m venv venv
 
 # Activate the virtual environment
 
-##Linux/Mac
+## Linux/Mac
 source venv/bin/activate
 
 ## Windows
