@@ -32,7 +32,10 @@ Prerequisites: Python 3.10.4
 
 ```
 # clone repository
-git clone https://github.com/RangelMoreira/pomodoro.git
+git clone https://github.com/RangelMoreira/USstatesGame.git
+
+#Access directory
+cd USstatesGame
 
 # Create virtual environment
 python -m venv venv
