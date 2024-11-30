@@ -34,7 +34,7 @@ Prerequisites: Python 3.10.4
 # clone repository
 git clone https://github.com/RangelMoreira/USstatesGame.git
 
-#Access directory
+# Access directory
 cd USstatesGame
 
 # Create virtual environment
