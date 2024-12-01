@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# Autor
+# Author
 
 Kevin Rangel Moreira
 
